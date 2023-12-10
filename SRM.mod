@@ -1,0 +1,5 @@
+name = "Synthetic Resources Mod"
+path = "mod/SRM"
+replace_path = "inventions"
+replace_path = "localisation"
+replace_path = "common"
